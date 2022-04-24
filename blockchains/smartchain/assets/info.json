@@ -1,0 +1,10 @@
+ "name": "Apple",
+ "website": "https://binemon.io",
+ "description": "Apple (AMB) is the first token in the collaboration of Auto-Staking and GameFi trend.",
+"explorer":"https://bscscan.com/token/0x95977A9DaA14A00258f89a14F75B6E35d5B730d4",
+ "type": "BEP20",
+ "symbol": "AMB",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x95977A9DaA14A00258f89a14F75B6E35d5B730d4"
+}
